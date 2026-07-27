@@ -29,5 +29,30 @@ Password Guardian Pro is a comprehensive password security analysis tool built w
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 🚀 How to Run
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/prasimakarki/PasswordGuardianPro.git
+   
+2. Navigate to the project folder:
+   cd PasswordGuardianPro
+
+3.Run tests (optional):
+   python test_analyzer.py
+
+👩‍💻 Author
+Prasima Karki
+
+Softwarica ID: 260148
+
+📚 Module Information
+Module: ST4017CMD Introduction to Programming
+
+Lecturer: Prabisha Khadka
+
+Institution: Softwarica College of IT & E-commerce, Coventry University
 
