@@ -1,3 +1,4 @@
+# Version 2.0 - Added unit testing support
 """
 Password Guardian Pro - Advanced Password Security Analyzer
 ST4017CMD Introduction to Programming - Coursework Project
